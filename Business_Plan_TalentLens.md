@@ -34,7 +34,7 @@ On the other side, millions of skilled Indians are shut out of good opportunitie
 
 TalentLens solves this. We are building a platform that uses AI-powered video interviews to objectively test candidates, then connects the verified ones with companies through a managed marketplace. We operate three business lines: an AI interview and assessment system, a talent marketplace for contract hiring, and a managed service where we build and run teams of domain experts for AI companies.
 
-Our revenue comes from a 30 to 35 percent commission on every hour a contractor works through us. The model is simple — more contractors working more hours means more revenue, and it recurs every month. We need Rs 18 lakhs to start, we break even at 30 active contractors, and we project Rs 3.25 crores in revenue and Rs 2.03 crores in net profit in Year 1.
+Our revenue comes from a 30 to 35 percent commission on every hour a contractor works through us. The model is simple — more contractors working more hours means more revenue, and it recurs every month. We need approximately Rs 25 lakhs to start. We break even at around 30 active contractors, which we expect to reach by Month 7 or 8 of operations. With a realistic ramp-up to about 200 active contractors by year end, we project Year 1 revenue of approximately Rs 1.1 crores.
 
 Why now? India's AI market is at $14.3 billion and growing (VynZ Research, 2025). The gig workforce has crossed 12 million and is expanding at 21 percent per year, the fastest in the world (DemandSage, 2026). And despite all this talent, 82 percent of employers still cannot find the people they need (CXO Today, 2026). The gap is not a shortage of talent. It is a failure of the systems that match talent with opportunity. That is exactly what we fix.
 
@@ -46,7 +46,7 @@ CHAPTER 2: THE BUSINESS
 
 The Opener
 
-TalentLens Technologies Private Limited is an AI-powered talent verification and workforce management company. We offer three services: AI video interviews for skill assessment, a managed contract talent marketplace, and specialized domain expert teams for AI data work. Our customers are AI companies, tech startups, and global enterprises looking for cost-effective Indian talent. The company will be headquartered in [City, State] and will operate remotely through the cloud platform. We are targeting Rs 3.25 crores in commission revenue in Year 1, growing to Rs 14 crores in Year 2 and Rs 50 crores in Year 3.
+TalentLens Technologies Private Limited is an AI-powered talent verification and workforce management company. We offer three services: AI video interviews for skill assessment, a managed contract talent marketplace, and specialized domain expert teams for AI data work. Our customers are AI companies, tech startups, and global enterprises looking for cost-effective Indian talent. The company will be headquartered in [City, State] and will operate remotely through the cloud platform. We are targeting approximately Rs 1.1 crores in commission revenue in Year 1, growing to Rs 5 crores in Year 2 and Rs 15 crores in Year 3 as the platform gains traction.
 
 Goals and Objectives
 
@@ -56,7 +56,7 @@ All objectives follow the SMART framework (Specific, Measurable, Attainable, Rel
 |:---|:---|:---|
 | Build a verified talent pool | Onboard 5,000 professionals; 500 actively working contractors | By Dec 2027 |
 | Establish paying client base | Acquire 15-20 paying clients across AI, tech, and global segments | By Dec 2027 |
-| Achieve profitability | Break-even at 30 contractors; Rs 2 crores net profit | Month 4; Year 1 end |
+| Achieve profitability | Break-even at 30 contractors; achieve operational profitability | Month 7-8; sustain through Year 1 |
 | Customer-centric operations | Client satisfaction rating of 4.0+/5 from 80% of active clients | By Dec 2027 |
 | Build market credibility | Publish 5 case studies; secure 3 educational institution partnerships | By Dec 2027 |
 
@@ -72,11 +72,11 @@ Basic Financials
 
 | Metric | Value |
 |:---|:---|
-| Total investment | Rs 18,00,000 |
-| Monthly operating expenses | Rs 4,50,000 |
+| Total investment | Rs 25,00,000 |
+| Monthly operating expenses (at full team) | Rs 3,50,000 |
 | Revenue per contractor per month | Rs 15,360 |
-| Break-even point | 30 active contractors |
-| Year 1 projected net profit | Rs 2,03,25,000 |
+| Break-even point | ~30 active contractors |
+| Year 1 projected revenue | ~Rs 1,10,00,000 |
 
 2.2 Business Mix by Segment
 
@@ -230,9 +230,9 @@ On the supply side, we build the talent pool through campus drives at colleges (
 
 | Year | Priority | Targets |
 |:---|:---|:---|
-| Year 1 | Prove the model works | 500 active contractors, 15-20 clients, 3-5 case studies, break-even by Month 4 |
-| Year 2 | Scale up | 2,000 contractors, expand into healthcare/legal/finance, launch AI Interview as separate product |
-| Year 3 | Expand geographically | Series A funding, 10,000 contractors, 50+ team, enter US and European markets |
+| Year 1 | Prove the model works | 200 active contractors, 8-12 clients, 3-5 case studies, break-even by Month 8 |
+| Year 2 | Scale up | 600 active contractors, expand into healthcare/legal/finance, launch AI Interview as separate product |
+| Year 3 | Expand geographically | Series A funding, 2,000 active contractors, 30+ team, begin US and European market entry |
 
 5.4 Sustaining Competitive Advantage
 
@@ -262,12 +262,14 @@ In the initial phase, we are hiring five people in addition to the founders.
 
 | Role | Monthly Salary | What they do |
 |:---|:---|:---|
-| Full-Stack Developer | Rs 60,000 | Build and maintain the web platform |
-| Sales and BD Executive | Rs 35,000 | Client outreach and acquisition |
+| Full-Stack Developer | Rs 55,000 | Build and maintain the web platform |
+| Sales and BD Executive | Rs 30,000 + incentives | Client outreach and acquisition |
 | Talent Operations Coordinator | Rs 25,000 | Candidate screening, managing the talent database |
-| Data Labeling Project Manager | Rs 40,000 | Coordinate AI data service projects |
+| Data Labeling Project Manager | Rs 45,000 | Coordinate AI data service projects |
 | Freelance Marketing Person | Rs 20,000 | Social media, content creation, campaigns |
-| Total | Rs 1,80,000/month | |
+| Total | Rs 1,75,000/month | |
+
+Note: Founders draw minimal stipends of Rs 30,000 each during the first year, adding Rs 60,000/month. These are included in the operating expenses in Chapter 7. Most early-stage Indian startup founders defer proper salaries until revenue stabilises.
 
 We plan to grow to 10-12 people by end of Year 1 depending on business growth.
 
@@ -283,7 +285,7 @@ We plan to grow to 10-12 people by end of Year 1 depending on business growth.
 | Payments (India) | Razorpay | Domestic transactions |
 | Payments (International) | Stripe | Cross-border payments |
 
-Estimated monthly technology cost (cloud hosting, AI model APIs, payment processing, tools): Rs 1,10,000.
+Estimated monthly technology cost in the early phase: Rs 15,000 to 25,000. AWS Activate offers startups up to $100,000 in free credits, which would cover most of our cloud costs in Year 1. AI model API costs (OpenAI, AWS Transcribe) add Rs 5,000 to 10,000 per month depending on interview volume. As the platform scales beyond a few hundred active users, costs will rise to approximately Rs 40,000 to 60,000 per month by Year 2.
 
 6.4 Physical Infrastructure
 
@@ -303,106 +305,133 @@ Over time, TalentLens will build three assets that become harder for competitors
 
 CHAPTER 7: FINANCIAL OUTLAY, FINANCIAL CLOSER, AND PROJECTED FINANCIALS
 
-All figures in this chapter are estimates based on the assumptions stated below. Actual results will depend on market conditions, client acquisition speed, and execution.
+All figures in this chapter are estimates based on the assumptions stated below. Actual results will depend on market conditions, client acquisition speed, and execution. We have deliberately chosen conservative assumptions — most B2B startups in India take 3 to 6 months to land their first paying client, and contractor growth depends entirely on having enough client demand to keep people busy.
 
 7.0 Financial Summary
 
 | Year | I | II | III |
 |:---|:---|:---|:---|
-| Total requirement of fund | Rs 18,00,000 | Rs 35,00,000 (expansion) | Rs 1,50,00,000 (Series A) |
-| Number of Customers / registered users | 15-20 clients / 500 contractors | 50-60 clients / 2,000 contractors | 150+ clients / 10,000 contractors |
-| Revenue | Rs 3,25,00,000 | Rs 14,00,00,000 | Rs 50,00,00,000 |
-| Gross profit | Rs 3,25,00,000 | Rs 14,00,00,000 | Rs 50,00,00,000 |
-| Operating profit | Rs 2,71,00,000 | Rs 10,50,00,000 | Rs 35,00,00,000 |
-| Net profit | Rs 2,03,25,000 | Rs 7,87,50,000 | Rs 26,25,00,000 |
+| Total requirement of fund | Rs 25,00,000 | Rs 40,00,000 (expansion) | Rs 1,50,00,000 (Series A) |
+| Number of Customers / registered users | 8-12 clients / 200 active contractors | 25-35 clients / 600 active contractors | 80+ clients / 2,000 active contractors |
+| Revenue (commission only) | Rs 1,10,00,000 | Rs 5,00,00,000 | Rs 15,00,00,000 |
+| Gross profit | Rs 1,10,00,000 | Rs 5,00,00,000 | Rs 15,00,00,000 |
+| Operating profit | Rs 68,00,000 | Rs 3,20,00,000 | Rs 10,50,00,000 |
+| Net profit | Rs 51,00,000 | Rs 2,40,00,000 | Rs 7,87,00,000 |
 
-Revenue refers to the markup portion (our commission) only, not total billing. Gross profit equals revenue because contractor payments are pass-through costs. Year II and III figures are projections based on planned growth.
+Revenue refers to the markup portion (our commission) only, not total billing. Gross profit equals revenue because contractor payments are pass-through costs. Year II and III figures are projections based on planned growth. These are base-case estimates, not best-case.
 
 7.1 Financial Outlay (Startup Costs)
 
-| Item | Amount (Rs) |
-|:---|:---|
-| Company registration, legal setup, compliance | 50,000 |
-| Platform development (MVP) | 3,00,000 |
-| AI interview engine development | 2,00,000 |
-| Office setup (deposit + equipment) | 80,000 |
-| Marketing and launch campaign | 1,50,000 |
-| Working capital reserve (6 months) | 10,00,000 |
-| Miscellaneous and contingency | 20,000 |
-| Total | 18,00,000 |
+| Item | Amount (Rs) | Notes |
+|:---|:---|:---|
+| Company registration, legal setup, compliance | 60,000 | Pvt Ltd incorporation, GST, contracts, legal advisory |
+| Platform development (MVP) | 5,00,000 | CTO builds core; covers freelance UI designer, API subscriptions, third-party integrations |
+| AI interview engine (MVP) | 3,50,000 | Uses pre-built APIs (OpenAI, AWS Transcribe); covers NLP integration, video processing setup, initial scoring logic |
+| Office setup (deposit + equipment) | 1,00,000 | Co-working security deposit, 2-3 laptops |
+| Marketing and launch campaign | 1,50,000 | LinkedIn campaigns, campus drive logistics, content creation |
+| Working capital reserve (8 months) | 13,00,000 | Covers salaries, rent, and ops during low/no revenue months |
+| Miscellaneous and contingency | 40,000 | |
+| Total | 25,00,000 | |
+
+Note on platform costs: The CTO co-founder builds the core platform, so the Rs 5 lakh figure covers out-of-pocket expenses — freelance design work, API subscriptions, domain and hosting setup — not developer salaries. Even with this approach, building a functional marketplace with AI features typically costs Rs 12 to 25 lakhs in the market (ScaleUpAlly, 2025). We keep it lower because the CTO does the heavy lifting. The AI engine similarly uses pre-built NLP and speech-to-text APIs rather than training custom models, which would cost Rs 40 lakhs or more (Leanware, 2026).
 
 7.2 Financial Closer (Funding Plan)
 
 | Source | Amount (Rs) | Structure |
 |:---|:---|:---|
-| Founders' personal savings | 5,00,000 | Equity |
-| Family and friends round | 5,00,000 | Convertible note or equity |
-| Angel investor or startup incubator | 8,00,000 | 10-15% equity stake |
-| Total | 18,00,000 | |
+| Founders' personal savings | 6,00,000 | Equity |
+| Family and friends round | 7,00,000 | Convertible note or equity |
+| Angel investor or startup incubator | 12,00,000 | 10-15% equity stake |
+| Total | 25,00,000 | |
 
-We are deliberately avoiding bank debt in the early phase. The commission-based model should generate positive cash flow within a few months, which reduces the need for borrowing. If growth exceeds expectations, we will consider a formal seed round in Year 2.
+We are deliberately avoiding bank debt in the early phase. We will apply for the Startup India DPIIT recognition, which makes us eligible for AWS Activate credits (up to $100,000 in free cloud hosting), tax benefits, and incubation programs. If Year 1 traction is strong, we will raise a formal seed round of Rs 50 lakhs to Rs 1 crore in Year 2 to accelerate growth.
 
 7.3 Revenue Projections (Year 1)
 
-These projections are based on the following assumptions: operations begin in Month 1 with first revenue from Month 3 (Months 1-2 are dedicated to setup). The average hourly rate to clients is Rs 792 (32% markup on Rs 600 base). Our earning per contractor per hour is Rs 192. Each contractor works an average of 80 hours per month.
+These projections are based on conservative assumptions informed by typical B2B startup timelines in India. Months 1 to 3 are dedicated to platform development, hiring, and initial client outreach. The first paying client is expected around Month 4 to 5, based on the industry norm of 3 to 6 months for B2B startups to close their first deal (Close.com; SaaSBoomi). The average hourly rate to clients is Rs 792 (32% markup on Rs 600 base). Our earning per contractor per hour is Rs 192. Each contractor works an average of 80 hours per month.
 
 | Month | Active Contractors | Gross Billing (Rs) | TalentLens Revenue (Rs) |
 |:---|:---|:---|:---|
-| 1-2 | 0 | 0 | 0 (setup phase) |
-| 3 | 20 | 12,67,200 | 3,07,200 |
-| 4 | 40 | 25,34,400 | 6,14,400 |
-| 5 | 65 | 41,18,400 | 9,98,400 |
-| 6 | 100 | 63,36,000 | 15,36,000 |
-| 7 | 150 | 95,04,000 | 23,04,000 |
-| 8 | 200 | 1,26,72,000 | 30,72,000 |
-| 9 | 270 | 1,71,07,200 | 41,47,200 |
-| 10 | 350 | 2,21,76,000 | 53,76,000 |
-| 11 | 420 | 2,66,11,200 | 64,51,200 |
-| 12 | 500 | 3,16,80,000 | 76,80,000 |
-| Year 1 Total | | ~Rs 13.4 crores | ~Rs 3.25 crores |
+| 1-3 | 0 | 0 | 0 (setup and outreach) |
+| 4 | 5 | 3,16,800 | 76,800 |
+| 5 | 12 | 7,60,320 | 1,84,320 |
+| 6 | 22 | 13,93,920 | 3,37,920 |
+| 7 | 35 | 22,17,600 | 5,37,600 |
+| 8 | 55 | 34,84,800 | 8,44,800 |
+| 9 | 80 | 50,68,800 | 12,28,800 |
+| 10 | 110 | 69,69,600 | 16,89,600 |
+| 11 | 155 | 98,20,800 | 23,80,800 |
+| 12 | 200 | 1,26,72,000 | 30,72,000 |
+| Year 1 Total | | ~Rs 4.27 crores | ~Rs 1.04 crores |
 
-TalentLens revenue is the markup portion only — what we actually keep after paying contractors.
+The "active" count means contractors who billed at least one hour that month. To have 200 active contractors, we will likely need 800 to 1,000 registered professionals on the platform (industry data suggests 15-25% of registered freelancers are active in any given month). Getting to 200 active by Month 12 requires that we have enough paying clients generating enough work — which is the real bottleneck, not the supply of talent.
 
-7.4 Estimated Monthly Expenses (at approximately 200 contractors, around Month 8)
+TalentLens revenue is the markup portion only — what we keep after paying contractors.
+
+7.4 Estimated Monthly Expenses
+
+Expenses are not flat through the year. In the first few months, costs are lower because we have not hired the full team. Below are two snapshots.
+
+Months 1-3 (setup, lean team):
 
 | Expense | Monthly (Rs) |
 |:---|:---|
-| Staff salaries (5 employees) | 1,80,000 |
+| Founders' stipend (2 x Rs 30,000) | 60,000 |
+| Developer salary (hired Month 2) | 55,000 |
 | Co-working office rent | 40,000 |
-| Cloud infrastructure (AWS) | 50,000 |
-| Marketing and sales | 1,00,000 |
-| Payment processing fees | 30,000 |
-| Legal, accounting, compliance | 20,000 |
+| Cloud and API costs (development) | 8,000 |
+| Marketing (pre-launch content, LinkedIn) | 30,000 |
+| Legal, tools, miscellaneous | 15,000 |
+| Total | ~2,08,000 |
+
+Months 7-12 (full team, operations running):
+
+| Expense | Monthly (Rs) |
+|:---|:---|
+| Staff salaries (5 employees) | 1,75,000 |
+| Founders' stipend (2 x Rs 30,000) | 60,000 |
+| Co-working office rent | 40,000 |
+| Cloud infrastructure and AI APIs | 15,000 |
+| Marketing and sales | 75,000 |
+| Payment processing fees | 15,000 |
+| Legal, accounting, compliance | 15,000 |
 | Communication tools and software | 10,000 |
-| Miscellaneous | 20,000 |
-| Total | 4,50,000 |
+| Miscellaneous | 15,000 |
+| Total | ~4,20,000 |
+
+Note: Cloud costs are low because we expect to receive AWS Activate credits through Startup India, which typically cover Rs 8 to 80 lakhs worth of hosting for DPIIT-registered startups. Without credits, cloud costs would be Rs 30,000 to 50,000 per month at scale.
 
 7.5 Projected Profit and Loss (Year 1)
 
 | Item | Amount (Rs) |
 |:---|:---|
-| Total revenue (markup earnings) | ~3,25,00,000 |
-| Total operating expenses (12 months) | ~54,00,000 |
-| Profit before tax | ~2,71,00,000 |
-| Tax at 25% (applicable startup rate) | ~67,75,000 |
-| Net profit after tax | ~2,03,25,000 |
+| Total revenue (markup earnings) | ~1,04,00,000 |
+| Operating expenses Months 1-3 (lean phase, ~Rs 2.08L x 3) | ~6,24,000 |
+| Operating expenses Months 4-6 (ramping up, ~Rs 3.00L x 3) | ~9,00,000 |
+| Operating expenses Months 7-12 (full operations, ~Rs 4.20L x 6) | ~25,20,000 |
+| Total operating expenses (12 months) | ~40,44,000 |
+| Profit before tax | ~63,56,000 |
+| Tax at 25% (applicable startup rate) | ~15,89,000 |
+| Net profit after tax | ~47,67,000 |
 
-The first four to five months will be low-revenue or loss-making. The annual profitability comes primarily from the strong growth in the second half of the year.
+The first six months will be low-revenue or loss-making. Profitability comes from the second half of the year as the contractor base and client count build up. If we qualify for the Startup India three-year tax holiday, the tax liability would be zero and net profit would be closer to Rs 64 lakhs.
 
 7.6 Break-Even Analysis
 
-Monthly fixed costs are Rs 4,50,000. Each active contractor generates Rs 15,360 per month (Rs 192 per hour multiplied by 80 hours). That puts our break-even at approximately 30 active contractors. We expect to reach this by Month 4 from first revenue. The total investment of Rs 18 lakhs should be recovered from accumulated profits by Month 7 or 8.
+At the full-team operating cost of Rs 3,50,000 per month (average across the year), each active contractor generates Rs 15,360 per month (Rs 192 per hour multiplied by 80 hours). That puts break-even at approximately 23 active contractors at lean-phase costs, or approximately 27 active contractors at full-team costs.
+
+We expect to cross 30 active contractors around Month 7 or 8 from the start of operations. This is consistent with B2B sales timelines in India — the first 3 to 4 months are spent building the platform and pipeline, the next 2 to 3 months on closing first clients and ramping contractors. Operational break-even should be reached by the end of Month 8. The total investment of Rs 25 lakhs is expected to be recovered from accumulated profits by Month 14 to 16 (early Year 2).
 
 7.7 Key Financial Indicators
 
 | Indicator | Value |
 |:---|:---|
 | Gross margin | 32% (the markup rate) |
-| Net profit margin on gross billing | About 15% |
-| Customer acquisition cost | Rs 25,000-40,000 per client |
-| Lifetime value per client (12 months) | Rs 5,00,000 or more |
-| LTV to CAC ratio | 12:1 to 20:1 |
-| Payback period on investment | 7-8 months |
+| Net profit margin on commission revenue | About 46% (Year 1) |
+| Customer acquisition cost | Rs 15,000-30,000 per SMB client (founder-led sales); Rs 80,000-1,50,000 for mid-market |
+| Estimated lifetime value per client (12 months) | Rs 3,00,000 to Rs 8,00,000 depending on size |
+| LTV to CAC ratio | 5:1 to 10:1 |
+| Payback period on initial investment | 14-16 months |
 
 ---
 
@@ -465,12 +494,13 @@ For the broader economy, TalentLens creates a formal channel for India's skilled
 
 | Scenario | What changes | What happens |
 |:---|:---|:---|
-| Conservative | We reach 300 contractors instead of 500 by year end | Revenue drops to about Rs 1.9 crores. Still profitable. Break-even moves to Month 5. The business works. |
-| Aggressive | We reach 800 contractors by year end | Revenue climbs to about Rs 5.2 crores. We need to hire faster (expenses go to about Rs 7 lakhs/month). Much higher profit. We raise funding earlier. |
-| Pricing Pressure | Markup drops from 32% to 22% due to competition | Revenue per hour falls from Rs 192 to Rs 132. Break-even rises to about 43 contractors. Year 1 revenue down about 30%. The business survives but needs higher volume. |
-| Client Concentration | Our top 2 clients make up 60% of revenue; one leaves | We lose 30% of revenue overnight. This is why we aim for 15-20 clients and cap any single client at 15-20% of total revenue. |
+| Conservative | We reach only 120 active contractors by year end instead of 200 | Revenue drops to about Rs 65 lakhs. Still covers costs in H2. Break-even shifts to Month 9-10. Business survives on working capital reserve. |
+| Aggressive | We reach 350 active contractors by year end | Revenue rises to about Rs 1.8 crores. Need to hire 2-3 more people earlier. Significantly higher profit. Seed round in Year 2 becomes attractive. |
+| Pricing Pressure | Markup drops from 32% to 22% due to competition | Revenue per hour falls from Rs 192 to Rs 132. Break-even rises to about 32 contractors. Year 1 revenue drops about 30%. Viable but needs more volume. |
+| Client Concentration | Top 2 clients account for 60% of revenue; one leaves | Immediate 30% revenue loss. This is why we aim for 8-12 clients and cap any single client at 20-25% of revenue. |
+| Delayed First Client | First paying client comes in Month 6 instead of Month 4-5 | Revenue shifts 2 months later, Year 1 total drops to about Rs 60-70 lakhs. Working capital covers the gap but gets tight. May need to cut spending or raise a small bridge. |
 
-The main takeaway is that the business does not depend on everything going perfectly. Even in the conservative scenario, we are profitable. The model has a reasonable safety margin.
+The main takeaway is that the business does not depend on everything going right. Operating costs are low enough that even in delayed or conservative scenarios, the working capital reserve carries us through Year 1. The commission model means every contractor who starts billing immediately contributes to covering costs. The real risk is not costs — it is how fast we can land clients.
 
 ---
 
@@ -478,9 +508,9 @@ CONCLUSION
 
 TalentLens is positioned where three things come together: the AI industry's growing need for human expertise, India's gig economy expanding at 21 percent per year, and a talent-matching system that leaves 82 percent of employers unable to find the people they need.
 
-The market is large and growing. No existing competitor combines AI-based skill verification, a managed marketplace, and specialized AI data services in one place. Our strategy of objective AI screening, domain expert specialization, and India-first cost advantage gives us a clear way to stand out. The founding team of seven is lean and focused, backed by advisory and institutional partnerships. The financials are straightforward — recurring commission revenue, break-even at just 30 contractors, and a projected net profit of Rs 2.03 crores in Year 1 on an investment of Rs 18 lakhs. The opportunities ahead are considerably larger than the risks we face.
+The market is large and growing. No existing competitor combines AI-based skill verification, a managed marketplace, and specialized AI data services in one place. Our strategy of objective AI screening, domain expert specialization, and India-first cost advantage gives us a clear way to stand out. The founding team of seven is lean and focused, backed by advisory and institutional partnerships. The financials are conservative — recurring commission revenue, break-even at around 27 to 30 active contractors, and projected Year 1 net profit of about Rs 48 lakhs on an investment of Rs 25 lakhs, with significant room for upside if client acquisition moves faster than expected. The opportunities ahead are considerably larger than the risks we face.
 
-While TalentLens will create meaningful work for thousands of Indian professionals, our investors can expect strong returns from a business model that gets better with scale in a market that is only getting larger. Together, we can bring about real change in how India's talent connects with the world's most important technology companies.
+While TalentLens will create meaningful work for hundreds of Indian professionals in its first year and thousands in the years after, our investors can expect steady returns from a business model that improves with every interview conducted and every project delivered. Together, we can bring about real change in how India's talent connects with the world's most important technology companies.
 
 ---
 
